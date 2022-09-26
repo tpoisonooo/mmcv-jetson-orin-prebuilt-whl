@@ -1,1 +1,2 @@
 mmcv_full-1.5.1-cp38-cp38-linux_aarch64.whl filter=lfs diff=lfs merge=lfs -text
+pycuda-2022.1-cp38-cp38-linux_aarch64.whl filter=lfs diff=lfs merge=lfs -text
